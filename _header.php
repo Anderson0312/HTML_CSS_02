@@ -19,9 +19,11 @@
     <nav>
         <a href="/">INÍCIO</a>
         &bull;
-        <a href="/tables.php">TABELAS</a>
+        <a href="/table.php">TABELAS</a>
         &bull;
         <a href="/lists.php">LISTAS</a>
+        &bull;
+        <a href="/forms.php">FORMULÁRIOS</a>
     </nav>
 
     <hr>
